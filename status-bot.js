@@ -4,7 +4,7 @@ module.exports = (client) => {
   console.log(`${client.user.tag} is online.`);
   let status = [
     {
-      name: "MadeByNullButDoNotDMMe",
+      name: "Kanji Thụy playing It Takes Two with C",
       type: ActivityType.Custom,
     },
     {
